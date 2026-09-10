@@ -73,22 +73,22 @@
 
   <!-- terminal content, wiped in left-to-right -->
   <g clip-path="url(#reveal)" font-family="'Fira Code','Cascadia Code',Consolas,Menlo,monospace">
-    <text x="40" y="56" font-size="19" font-weight="700" fill="#ffd700">gowtham@stark-industries:~$ cat about_me.txt</text>
+    <text x="40" y="56" font-size="19" font-weight="700" fill="#ffd700">vsk@sptacs.in:~$ cat about_me.txt</text>
 
     <text x="40" y="98" font-size="15" fill="#f0e6d2">
-      <tspan fill="#ffce54">name</tspan><tspan fill="#c9a97a">: </tspan><tspan>Gowtham Rajendran</tspan>
+      <tspan fill="#ffce54">name</tspan><tspan fill="#c9a97a">: </tspan><tspan>GSenthil Kumar V</tspan>
     </text>
     <text x="40" y="126" font-size="15" fill="#f0e6d2">
-      <tspan fill="#ffce54">role</tspan><tspan fill="#c9a97a">: </tspan><tspan>Senior Software Engineer</tspan>
+      <tspan fill="#ffce54">role</tspan><tspan fill="#c9a97a">: </tspan><tspan>Senior Design</tspan>
     </text>
     <text x="40" y="154" font-size="15" fill="#f0e6d2">
       <tspan fill="#ffce54">based_in</tspan><tspan fill="#c9a97a">: </tspan><tspan>India</tspan>
     </text>
     <text x="40" y="182" font-size="15" fill="#f0e6d2">
-      <tspan fill="#ffce54">focus</tspan><tspan fill="#c9a97a">: </tspan><tspan>[System Design, Microservices, Cloud-Native Development]</tspan>
+      <tspan fill="#ffce54">focus</tspan><tspan fill="#c9a97a">: </tspan><tspan>[2D & 3D Modelling]</tspan>
     </text>
     <text x="40" y="210" font-size="15" fill="#f0e6d2">
-      <tspan fill="#ffce54">stack</tspan><tspan fill="#c9a97a">: </tspan><tspan>[Angular, React, Vue.js, Spring Boot, Node.js, MySQL, MongoDB, AWS]</tspan>
+      <tspan fill="#ffce54">stack</tspan><tspan fill="#c9a97a">: </tspan><tspan>[New Product Development & Project Estimation & Costing]</tspan>
     </text>
     <text x="40" y="238" font-size="15" fill="#f0e6d2">
       <tspan fill="#ffce54">side_projects</tspan><tspan fill="#c9a97a">: </tspan><tspan>computer vision, WebGL &amp; creative-coding experiments</tspan>
