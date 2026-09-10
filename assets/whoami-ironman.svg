@@ -91,10 +91,13 @@
       <tspan fill="#ffce54">stack</tspan><tspan fill="#c9a97a">: </tspan><tspan>[New Product Development, Project Estimation &amp; Costing]</tspan>
     </text>
     <text x="40" y="238" font-size="15" fill="#f0e6d2">
-      <tspan fill="#ffce54">side_projects</tspan><tspan fill="#c9a97a">: </tspan><tspan>computer vision, WebGL &amp; creative-coding experiments</tspan>
+      <tspan fill="#ffce54">side_projects</tspan><tspan fill="#c9a97a">: </tspan><tspan>Web Design &amp; Webd Dvelopment</tspan>
+    </text>
+        <text x="40" y="238" font-size="15" fill="#f0e6d2">
+      <tspan fill="#ffce54">side_projects</tspan><tspan fill="#c9a97a">: </tspan><tspan>ERP &amp; CRM</tspan>
     </text>
     <text x="40" y="266" font-size="15" fill="#f0e6d2">
-      <tspan fill="#ffce54">currently_building</tspan><tspan fill="#c9a97a">: </tspan><tspan>AI &amp; SaaS products @ Canorouse Technology</tspan>
+      <tspan fill="#ffce54">currently_building</tspan><tspan fill="#c9a97a">: </tspan><tspan>AI &amp; SaaS products</tspan>
     </text>
     <text x="40" y="294" font-size="15" fill="#f0e6d2">
       <tspan fill="#ffce54">open_to</tspan><tspan fill="#c9a97a">: </tspan><tspan>backend-heavy full-stack roles, cloud &amp; system-design work</tspan>
