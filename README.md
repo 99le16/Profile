@@ -23,7 +23,7 @@
 
 <br>
 
-## 🖥️ whoami
+## 🖥️ who I am
 
 <div align="center">
   <img src="./assets/whoami-ironman.svg" alt="whoami" width="100%">
