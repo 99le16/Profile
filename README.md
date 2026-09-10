@@ -2,16 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8993ea,50:9694fa,100:6ee2f5&height=6&section=header" width="100%">
 
-<h1>Hi, I'm Tarakesh S 👋</h1>
-<h3>Senior Software Engineer · Cloud · System Design</h3>
+<h1>Hi, I'm Senthil Kumar V 👋</h1>
+<h3>Senior Design Engineer · Mahendra Pumps Pvt. Ltd.,</h3>
 
-<a href="https://linkedin.com/in/gowtham-r-kod">
+<a href="https://linkedin.com/in/99le16">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:gowthamrr03@gmail.com">
+<a href="99kle16@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<img src="https://komarev.com/ghpvc/?username=Gowtham-R03&style=for-the-badge&color=6a4fea&label=PROFILE+VIEWS">
+
 
 <br/>
 
