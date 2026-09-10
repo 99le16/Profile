@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/99le16">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="99kle16@gmail.com">
+<a href="99le16@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
@@ -16,7 +16,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8993EA&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer;Angular+%E2%80%A2+React+%E2%80%A2+Vue+%E2%80%A2+Spring+Boot+%E2%80%A2+Node.js;AI+%26+SaaS+Product+Development;Currently+building+at+Canorouse+Technology" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8993EA&center=true&vCenter=true&width=700&lines=Senior+Design+Engineer;Mechanical+%E2%80%A2+Electrical+%E2%80%A2+WebDesign and Development+%E2%80%A2+Mobile App Development+%E2%80%A2;AI+%26+SaaS+Product+Development;Currently+building+at+Canorouse+Technology" alt="Typing SVG">
 </a>
 
 </div>
